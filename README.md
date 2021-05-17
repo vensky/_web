@@ -1,2 +1,2 @@
 # web-dev-tools
-Settings, manuals and tools for web development
+Инструкции и настройки инструментов для веб-разработки
