@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+@media (max-width: \$desktop) {
+    $0
+}
+@media (max-width: \$laptop) {
+    $0
+}
+@media (max-width: \$tablet) {
+    $0
+}
+@media (max-width: \$mobile) {
+    $0
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>0</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

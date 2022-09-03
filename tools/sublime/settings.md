@@ -1,0 +1,3 @@
+# Snippets
+
+Edit snippet: Preferences - Browse Packages...
