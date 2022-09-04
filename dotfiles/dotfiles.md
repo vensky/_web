@@ -1,3 +1,4 @@
+```
 #!/usr/bin/env bash
 
 # ~/.macos — https://vensky.github.com
@@ -153,4 +154,4 @@ npm install -g glyphhanger
 # Accessibility - Smooth images: Disable
 
 # Make zsh aliases
-
+```

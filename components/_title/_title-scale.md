@@ -1,6 +1,5 @@
-#title #text
-
 # Масшатируемый заголовок
+#title #text
 
 ```
 <svg viewBox="0 0 10 19" preserveAspectRatio="xMidYMid meet">

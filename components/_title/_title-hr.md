@@ -1,7 +1,8 @@
-#text #title #hr
+
 
 # Title HR
-
+#text #title #hr
+```
 <style>
 h2 {
     --s: 3px;
@@ -33,3 +34,4 @@ body {
 <h2 style="--g:50px;--c:purple">Adding some gap </h2>
 <h2 style="--w:100vw;--c:blue;--s:7px">Title</h2>
 <h2 style="--c:green;--s:5px;--w:50px;--g:20px">Another Title</h2>
+```

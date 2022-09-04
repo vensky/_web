@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "42bb9da9e207338a",
+    "type": "split",
+    "children": [
+      {
+        "id": "75586db540c00c4e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee4199be096aea20",
+    "type": "split",
+    "children": [
+      {
+        "id": "310f58e64386d605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f169bac54356b26e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0180cbc7ac67630a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be39ef9f09422b99",
+    "type": "split",
+    "children": [
+      {
+        "id": "68097536246f9267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8d1ddbf5fb58a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "75586db540c00c4e",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "README.md",
+    "checklist.md",
+    "tools/sublime/settings.md",
+    "tools/sublime/HTML-CSS-JS Prettify.md",
+    "tools/servers/pythonServer.md",
+    "tools/servers/ngrok.md",
+    "tools/servers/mimic.md",
+    "tools/servers/browsersync.md"
+  ]
+}

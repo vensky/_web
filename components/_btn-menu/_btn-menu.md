@@ -1,3 +1,6 @@
+# Button menu aria
+#button #aria 
+```
 <button aria-label="Меню">
     ☰ Меню
 </button>
@@ -5,3 +8,4 @@
     <span aria-hidden="true">☰</span>
     Меню
 </button>
+```

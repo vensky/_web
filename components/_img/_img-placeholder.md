@@ -1,3 +1,7 @@
+# Image placeholder
+#img 
+
+```
 @mixin img-placeholder {
     position: relative;
 
@@ -30,3 +34,4 @@
         color: #1c2d43;
     }
 }
+```
