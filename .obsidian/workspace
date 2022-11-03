@@ -7,8 +7,12 @@
         "id": "75586db540c00c4e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "minoa/tools.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "minoa/tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "75586db540c00c4e",
   "lastOpenFiles": [
+    "tools/bundler/_plugins.md",
+    "tools/devtools/_overrides-css.md",
+    "tools/sublime/plugins.md",
+    "components/_layout/_card-list.md",
+    "minoa/tools.md",
+    "js/Copy oblect.md",
+    "components/_storage/_storage-error.md",
     "Untitled 1.md",
-    "Untitled.md",
     "README.md",
-    "checklist.md",
-    "tools/sublime/settings.md",
-    "tools/sublime/HTML-CSS-JS Prettify.md",
-    "tools/servers/pythonServer.md",
-    "tools/servers/ngrok.md",
-    "tools/servers/mimic.md",
-    "tools/servers/browsersync.md"
+    "checklist.md"
   ]
 }
